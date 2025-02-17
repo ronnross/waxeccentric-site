@@ -1,0 +1,31 @@
+
+{% macro Millimeters(num) %}
+<li class="stick">
+  <ul class="minorStickContainer">
+    {% for i in range(11) %}
+    <li class="minorStick"></li>
+    {% endfor %}
+  </ul>
+  <span class="stickValue">{{ num }}</span>
+</li>
+{% endmacro %}
+
+{% macro Centimeter(num) %}
+<li class="stick">
+  <span class="stickValue">{{ num }}</span>
+</li>
+{% endmacro %}
+
+{% macro MeterStick(units=["1"], graduations="centimeter") %}
+<div class="ruler">
+  <ul class="stickContainer">
+    {% for x in units %}
+    {% if graduations == "centimeter" %}
+    {{ Centimeter(x) }}
+    {% else %}
+    {{ Millimeters(x) }}
+    {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+{% endmacro %}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="/favicon.ico" />
+    <title>{{ title | default: "Ametrica"}}</title>
+    <link rel="stylesheet" href="/assets/css/ametrica.css" />
+  </head>
+  <body>
+    <div class="content">
+      <header class="styles.navbar">
+      <div>
+        <h1>
+          {{ title | default: "Ametrica"}}
+        </h1>
+      </div>
+
+      <nav>
+        <Link href="/">Home</Link> &nbsp; | &nbsp;
+        <Link href="/ametrica">Ametrica</Link>
+      </nav>
+    </header>
+      {{ content }}
+      <footer class="footer">
+        <p>© 2025 Ametrica</p>
+      </footer>
+    </div>
+  </body>
+</html>
