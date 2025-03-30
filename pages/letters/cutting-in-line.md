@@ -1,7 +1,7 @@
 ---
 layout: layout.html
 title: Cut in line
-tags: posts
+tags: pages
 date: 2025-02-17
 ---
 
@@ -19,7 +19,7 @@ For me, standing in line represents skin in the game. I feel if I fell into the 
 
 I also think so many folks ordering online just makes the lines longer, like if you stood in line and folks kept cutting ahead of you.
 
-----
+---
 
 Dear Me,
 
