@@ -3,9 +3,18 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="/assets/imgs/we_icon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="/assets/css/main.css" />
     <title>{{ title | default: "Wax Eccentric"}}</title>
   </head>
   <body>
+    <header>
+      <img
+        src="/assets/imgs/wax_eccentric_logo.jpg"
+        alt="Wax Eccentric Logo"
+        style="height: 48px; width: 48px"
+      />
+    </header>
     {{ content }}
   </body>
 </html>

@@ -15,3 +15,7 @@ This uses 11ty for making updates
 ## Deploy
 
 Check into github and it will build and deploy
+
+# articles to write
+simplicity in modern life
+cursive writing 
