@@ -15,11 +15,11 @@ date: 2024-11-06
   <ul>
     <li><a href="#preface">Preface</a></li>
     <li><a href="#introduction">Introduction</a></li>
-    <li><a href="#Principles">Principles</a></li>
-    <li><a href="#Characters">Characters</a></li>
-    <li><a href="#Core-rules">Core rules</a></li>
-    <li><a href="#Creatures">Creatures</a></li>
-    <li><a href="#Marketplace">Marketplace</a></li>
+    <li><a href="#principles">Principles</a></li>
+    <li><a href="#characters">Characters</a></li>
+    <li><a href="#core-rules">Core rules</a></li>
+    <li><a href="#creatures">Creatures</a></li>
+    <li><a href="#carketplace">Marketplace</a></li>
   </ul>
 </details>
 
@@ -46,11 +46,11 @@ You’ll create a unique character with their own strengths and weaknesses, choo
 
 Are you ready to embark on an epic journey?
 
-## Principles
+<h2 id="principles">Principles</h2>
 
 This is the compendium edition. This is a rules lite version of game name. This version is meant for beginners or for faster play (tournament play). All versions of game name have been designed to be compatible. Meaning, if you like your character designed in compendium play then they can be easily converted to a campaign. If you have a group of campaign characters that want a one night dungeon crawler, no worries. See appendix <link> on how to move them hither and thither. This works with all creatures in the beastiary as well. Finally if you love the speed of the compendium edition but don’t like the roll under mechanics, no worries, pull in another that is outlined in the appendix <link>. The players at the table are in control of how they want to play.
 
-## Characters
+<h2 id="characters">Characters</h2>
 
 Begin by selecting a background for your character from the table below. If you are having trouble deciding just roll a d20 and take that result. Familiarize yourself with the abilities granted by that background in the [Appendix](appendix#backgrounds) section of this booklet.
 
@@ -76,7 +76,7 @@ For premade or to generate characters goto www.makethissite.com/characters
 
 Levels are not important in compendium, moreover, magic items and skills will fill this void.
 
-## Core rules
+<h2 id="core-rules">Core rules</h2>
 
 ### Initiative
 
@@ -92,10 +92,10 @@ If your character meets their end in a battle and they are healed within the bat
 
 This base version of the game should feel like a movie rather than a tactical exercise. There will be other modules that can be added to make the game play more crunchy
 
-## Creatures
+<h2 id="creatures">Creatures</h2>
 
-Nothing yet. This table needs to be created. 
+Nothing yet. This table needs to be created.
 
-## Marketplace
+<h2 id="marketplace">Marketplace</h2>
 
 See [Appendix](appendix)
