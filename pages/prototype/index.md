@@ -107,8 +107,9 @@ Example for creating a Creature or Monster. They require:
 
 This creature is physically tough, with higher than average <b>STR</b> and strong armor. It is probably fast but not maneuverable, and likely doesn’t rely on skill or dexterity to avoid danger. It is brutish, but it is still a wild beast and only as willful as any creature just looking for its next meal. It attacks by rolling in a straight line and should impact multiple targets.
 
-<h5> Thunder Snail </h5>
-6 HP, 2 Armor, 14 STR, 6 DEX, 4 WIL, (Roll d10 for RFX) smash & roll (d10, blast)
+<b> Thunder Snail </b>
+
+<p>6 HP, 2 Armor, 14 STR, 6 DEX, 4 WIL, (Roll d10 for RFX) smash & roll (d10, blast)</p>
 
 <ul>
   <li>Thick-shelled beasts that attack by rolling over their opponents in a straight line. The noise of their tumbling shells is deafening.</li>
@@ -116,9 +117,11 @@ This creature is physically tough, with higher than average <b>STR</b> and stron
 </ul>
 
 <h3>Converting Creatures/Monsters</h3>
-There is no perfect system for converting from other systems. Here are some tips that might help with the process!
-
-`We need to provide a bit of a guide for brining Creatures/Monsters over.
+<p>
+  There is no perfect system for converting from other systems. Here are some tips that might help with the process!
+  
+  `We need to provide a bit of a guide for brining Creatures/Monsters over.
+</p>
 
 <h2 id="marketplace">Marketplace</h2>
 
