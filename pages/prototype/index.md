@@ -92,9 +92,33 @@ If your character meets their end in a battle and they are healed within the bat
 
 This base version of the game should feel like a movie rather than a tactical exercise. There will be other modules that can be added to make the game play more crunchy
 
-<h2 id="creatures">Creatures</h2>
+<h2 id="creatures">Creatures/Monsters</h2>
 
-Nothing yet. This table needs to be created.
+Example for creating a Creature or Monster. They require:
+
+<ul>
+  <li><b>Appearance:</b> Hunched + Carapace</li>
+  <li><b>Traits:</b> Movies in a straight line</li>
+  <li><b>Attack:</b> Smashes</li>
+  <li><b>Abilities:</b> Disables hearing</li>
+</ul>
+
+<i>A snail-like creature with a hard shell. It moves only in straight lines, and has a soft underbelly. It rolls into opponents, pulling them into its wild orbit. The roar of its movement drowns out any other sounds.</i>
+
+This creature is physically tough, with higher than average <b>STR</b> and strong armor. It is probably fast but not maneuverable, and likely doesn’t rely on skill or dexterity to avoid danger. It is brutish, but it is still a wild beast and only as willful as any creature just looking for its next meal. It attacks by rolling in a straight line and should impact multiple targets.
+
+<h5> Thunder Snail </h5>
+6 HP, 2 Armor, 14 STR, 6 DEX, 4 WIL, (Roll d10 for RFX) smash & roll (d10, blast)
+
+<ul>
+  <li>Thick-shelled beasts that attack by rolling over their opponents in a straight line. The noise of their tumbling shells is deafening.</li>
+  <li><b>Critical Damage:</b> Target is pulled into its rolling momentum, losing an additional 1 STR per round until freed (STR save to escape).</li>
+</ul>
+
+<h3>Converting Creatures/Monsters</h3>
+There is no perfect system for converting from other systems. Here are some tips that might help with the process!
+
+`We need to provide a bit of a guide for brining Creatures/Monsters over.
 
 <h2 id="marketplace">Marketplace</h2>
 
